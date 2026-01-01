@@ -7,7 +7,7 @@ Digitalizar una tienda de abarrotes familiar en México mediante el desarrollo d
 - Control de inventario
 - Registro de ventas
 - Emisión de tickets
-- Funcionalidad offline
+- Funcionalidad offlineeeee
 - Sincronización con la nube cuando haya internet
 - Preparación para migración a una Raspberry Pi
 - Soporte para pagos con tarjeta (módulo listo para integrar)
