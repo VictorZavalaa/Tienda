@@ -4,7 +4,7 @@
 
 Digitalizar una tienda de abarrotes familiar en México mediante el desarrollo de una **aplicación web desde cero**, que incluya:
 
-- Control de inventario
+- Control de inventariodddd
 - Registro de ventas
 - Emisión de tickets
 - Funcionalidad offlineeeee
